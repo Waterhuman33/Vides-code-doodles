@@ -2,6 +2,7 @@ Bug boy;
 You play as a boy raised by a dung beetle, your home is his DUNGeon
 You have learned ways that to communicate with the other bugs you need to look like them, you have a mask for the most common bugs found near your home. 
 
+* BASE MASK-allows dialogue and talking/tips.
 * Ant mask 
 * WaterStrider mask
 * Fly mask

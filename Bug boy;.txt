@@ -1,0 +1,24 @@
+Bug boy;
+You play as a boy raised by a dung beetle, your home is his DUNGeon
+You have learned ways that to communicate with the other bugs you need to look like them, you have a mask for the most common bugs found near your home. 
+
+* Ant mask 
+* WaterStrider mask
+* Fly mask
+
+If you are facing a bug and have on the corresponding mask you can with the wave of your "conductive stick" order them to help you, this means you temporarily can tell them to move,stay and do actions specific for that bug.
+
+* Ant - ants can build structures with eachother, which changes depending on their location, bridge if located next to a ledge, ladder next to wall and so on.
+* WaterStrider - walks on water, 
+* Fly - can clean dirty objects and exists higher up
+
+Mirror; extends your line of sight and therefore your possibility to direct Bugs.
+Magnifying glass;Lets you control multiple bugs in a select area in front of the Magnifying glass.
+
+shortterm-OBJECTIVE; get through levels where you aim to get a "human" object, make use of the bugs spread through out to fulfill your goal.
+longterm-OBJECTIVE; find your true origin and your true self, who are you really and why does it even matter. MASKS
+
+Dull color scheme, each bug has a distintive but not too saturated color.
+The "human" objects have sploshes of intense colors, which you equip and in the end you are way more colorful.
+
+Start at the DUNGeon-----End at the exit of the Sewers

@@ -23,3 +23,5 @@ Dull color scheme, each bug has a distintive but not too saturated color.
 The "human" objects have sploshes of intense colors, which you equip and in the end you are way more colorful.
 
 Start at the DUNGeon-----End at the exit of the Sewers
+
+MAIN CHARACTER IS ALWAYS SEEN FACING FORWARD, CASTING ANIMATION IS THE LIFT WAND OVER HEAD SKADOOSH!

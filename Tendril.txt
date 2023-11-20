@@ -1,0 +1,70 @@
+
+Tendril
+Stick
+Branch
+Log
+twig?
+
+SAW: separate a word into smaller pieces
+COMBINER: combine and make a new word
+DUPLICATOR:Get more of a word you already possess
+(WORDLENGTH MAX 10)
+
+Allowed:
+
+Tick, Tick, (boom)
+Brick
+Stone
+Bread
+Sword
+Bass
+Corn
+Starch
+Stench
+Water
+Blind
+Star
+Sack
+
+
+Not allowed:
+n-word
+d*ck
+*ss
+b*llsack
+
+
+Level 1:
+ACCESS:STICK + BRANCH
+Words:
+Brick
+Bark
+Cart
+Sack
+Cash
+Brain
+
+
+Get past the guard; Brick. Bash. Star x 3. Cash.
+Complete the human; brain, skin, ribs,Shins, Hair .
+
+
+
+REALITY LINE---------------------------
+
+Level 2:
+ACCESS:STICK + BRANCH + LOG 
+
+
+Get past the guard; Blind. Star x 3. Sack. Sword. 
+Make sure the bad person is locked in;link x 4 + lock, or chain + lock
+Give the man a bread; Water + (Corn)starch. Water + Grain.  Bread 
+
+
+Level 3:
+ACCESS: LOG + TENDRIL // CAN GET ACCESS TO; STICK + BRANCH
+
+Get past the guard; Blind. Star x 3. Sack. 
+Build a house; Brick x 10 + Door. Brickwall x 4 + Door
+
+

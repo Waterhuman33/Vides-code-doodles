@@ -1,0 +1,12 @@
+SAW: separate a word into smaller pieces
+COMBINER: combine and make a new word
+DUPLICATOR:Get more of a word you already possess
+(WORDLENGTH MAX 10)
+
+CHEATCODE;DITTO
+Level 1:
+ACCESS:STICK + STONE // CAN GET ACCESS TO; DOG
+
+Help the person past the guard; Coin x 3. Coins. Insect. Tick. Tack x 3. Tacks. Cocoon.
+Complete the man; Neck,	Nose,Toe(Toes), Knee.	
+
